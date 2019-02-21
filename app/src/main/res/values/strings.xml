@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_desdeServer</string>
+    <string name="titulo_task">Titulo</string>
+    <string name="desciption_task">Descipción</string>
+    <string name="titulo_add_task">Titulo</string>
+    <string name="description_add_task">Descripción</string>
+</resources>
